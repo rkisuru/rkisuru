@@ -161,7 +161,7 @@
 
 <p align="center">
   <br>
-  <a href="www.linkedin.com/in/isuru-aravinda-ba69772b3](https://www.linkedin.com/in/isuru-aravinda-ba69772b3/" target="_blank">
+  <a href="https://www.linkedin.com/in/isuru-aravinda-ba69772b3/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
   
